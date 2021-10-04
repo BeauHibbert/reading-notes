@@ -10,7 +10,7 @@ A growth mindset is the key to success. A growth mindset is a mindset that someo
 
 Here are a couple traits that people with a growth mindset tend to have.
 
--Effort- This is obviously important when faced with an obstacle or hurdle it is important to not give up effort and focus.
+    -Effort- This is obviously important when faced with an obstacle or hurdle it is important to not give up effort and focus.
 
     -Attention- It is important to not lose focus if faced with something tough or challenging. Instead of giving up and doing something easier, it is important to remind yourself that even the best coders struggled at first too.
 
