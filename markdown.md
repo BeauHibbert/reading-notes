@@ -7,6 +7,7 @@ For example, this heading used two pound signs before the text.
 
 #### URL links
 An inline link can be created by putting parenthesis around the text and brackets around the URL.
+
 [My favorite website](https://www.espn.com/)
 
 [Another good website](https://www.reddit.com/)
