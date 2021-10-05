@@ -1,6 +1,6 @@
 # Writing on Github
 Markdown is the languge used to write code on Github. Particularly for project README's
-#Here is some basic syntax that is commonly used.
+Here is some basic syntax that is commonly used.
 
 ## Headings
 The pound sign in front of the text is used to indicate a heading. 
