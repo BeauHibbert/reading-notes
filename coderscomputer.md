@@ -10,9 +10,9 @@ Third party text editors are used by most developers, although everyone has thei
 
 Here are just some of the popular ones that are around today.
 
-[Notepad++](https://notepad-plus-plus.org/downloads/)
-[Text Wrangler/BB Edit](https://www.barebones.com/products/textwrangler/)
-[Visual Studio Code](https://code.visualstudio.com/)
-[Atom](https://atom.io/)
-[Brackets](https://brackets.io/)
-[Sublime Text](https://www.sublimetext.com/)
+* [Notepad++](https://notepad-plus-plus.org/downloads/)
+* [Text Wrangler/BB Edit](https://www.barebones.com/products/textwrangler/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+* [Brackets](https://brackets.io/)
+* [Sublime Text](https://www.sublimetext.com/)
