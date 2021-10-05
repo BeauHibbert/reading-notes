@@ -17,4 +17,4 @@ Here are just some of the popular ones that are around today.
 * [Brackets](https://brackets.io/)
 * [Sublime Text](https://www.sublimetext.com/)
 
-Along with text editors, there is something called IDE's (Intergrated Development Environement). These are not only text editors, but also file managers, compilers, and debuggers all in one. They are not as necessary when first starting out with coding and web development but it's a good idea to get familiar with one when the time comes and you need one for a project that requires a little more than just a text editor.
+Along with text editors, there is something called IDE's (Integrated Development Environment). These are not only text editors, but also file managers, compilers, and debuggers all in one. They are not as necessary when first starting out with coding and web development but it's a good idea to get familiar with one when the time comes and you need one for a project that requires a little more than just a text editor.
