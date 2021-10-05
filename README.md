@@ -17,3 +17,6 @@ Here are a couple traits that people with a growth mindset tend to have.
     -Perserverence- This is a really important one. Everyone that tries to code is going to become frustrated and that frustration is what needs to be watched. Learning how to handle criticism, even if it is self criticism is very important when attempting to learn new things.
 
 ![Growth](markus-spiske-vrbZVyX2k4I-unsplash.jpg)
+
+*Growth Mindset
+**Growth Mindset
