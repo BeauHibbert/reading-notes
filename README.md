@@ -18,6 +18,8 @@ Here are a couple traits that people with a growth mindset tend to have.
 
 ![Growth](markus-spiske-vrbZVyX2k4I-unsplash.jpg)
 
-*Growth Mindset*
+* *Growth Mindset*
 
-**Growth Mindset**
+* **Growth Mindset**
+
+* Growth Mindset
