@@ -1,4 +1,4 @@
-# HTML or hypertext markup lankguange
+# HTML or hypertext markup languange
 
 * HTML is a coding language that displays the content of your web page.
 * HTML utilizes tags and elements to tell the content what it needs to do.
