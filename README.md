@@ -24,7 +24,7 @@ Here are a couple traits that people with a growth mindset tend to have.
 
 * Growth Mindset
 
-#Table of Contents
+# Table of Contents
 1. [Front Page](README.md)
 2. [Coder's Computer](coderscomputer.md)
 3. [Git Intro](gitintro.md)
