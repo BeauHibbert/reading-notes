@@ -6,7 +6,7 @@
 # Centralized Version Control System
 * A centralized version control system or CVCS was the answer for a group of developers to collaborate without having to be together. Again, there was still one point of failure in this system if the server went down then nobody could continue working on the project.
 
-# Distributed Version control System
+# Distributed Version Control System
 * Distributed Version Control System is the answer to the main problem of a CVCS. Each time a change to a file is made it takes a snapshot of the new file and it is saved to Git(Git is a very popular DVCS).
 
 # How it works
