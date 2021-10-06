@@ -8,3 +8,10 @@
 
 # Distributed Version control System
 * Distributed Version Control System is the answer to the main problem of a CVCS. Each time a change to a file is made it takes a snapshot of the new file and it is saved to Git(Git is a very popular DVCS).
+
+# How it works
+1. A repository is cloned from Git into the terminal.
+2. Type 'git status' into the terminal. This displays the status of the repository in your directory.
+3. Type 'git add' or 'git add .' and this tells the terminal that you want to add updates to your file.
+4. Type 'git commit -m"message" and Git will take a snapshot of the current work and allows you to add a comment or message about the change.
+5. Finally, type 'git push origin main' and the terminal and git should sync up and both have the latest snapshot version saved.
