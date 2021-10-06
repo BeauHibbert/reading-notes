@@ -29,3 +29,4 @@ Here are a couple traits that people with a growth mindset tend to have.
 2. [Coder's Computer](coderscomputer.md)
 3. [Git Intro](gitintro.md)
 4. [Markdown](markdown.md)
+5. [HTML](html.md)
