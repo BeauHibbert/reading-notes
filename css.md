@@ -19,3 +19,10 @@ The internal css is added to the <style> element, inside the head section.
 - Finally, inline css can be used to style a single element.
 
 The style attribute needs to be added to the relevant element.
+
+Helpful links
+* [Link one](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+* [Link two](https://www.w3schools.com/css/css_howto.asp)
+* [Link three](https://www.w3schools.com/cssref/pr_text_color.asp)
+* [Link four](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [Link five](https://meyerweb.com/eric/tools/css/reset/)
