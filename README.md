@@ -30,6 +30,6 @@ Here are a couple traits that people with a growth mindset tend to have.
 3. [Git Intro](gitintro.md)
 4. [Markdown](markdown.md)
 5. [HTML](html.md)
-6. [css](css.md
+6. [css](css.md)
 7. [Javascript](javascriptmd)
 8. [Operators and loops](operatorsandloops.md)
