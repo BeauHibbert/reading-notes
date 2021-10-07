@@ -32,3 +32,4 @@ Here are a couple traits that people with a growth mindset tend to have.
 5. [HTML](html.md)
 6. [css](css.md
 7. [Javascript](javascriptmd)
+8. [Operators and loops](operatorsandloops.md)
