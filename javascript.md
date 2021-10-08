@@ -26,6 +26,12 @@ Functions are important because you can define the code once and use it many tim
 
 ## Operators
 
+* The assignment operator (=) assigns a value to a variable.
+* The addition operator (+) adds numbers:
+* The multiplication operator (*) multiplies numbers.
+* The addition assignment operator (+=) adds a value to a variable.
+* The + operator can also be used to add (concatenate) strings.
+* The += assignment operator can also be used to add (concatenate) strings:
 
 
 
