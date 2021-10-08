@@ -33,8 +33,6 @@ Functions are important because you can define the code once and use it many tim
 * The + operator can also be used to add (concatenate) strings.
 * The += assignment operator can also be used to add (concatenate) strings:
 
-
-
 Helpful links:
 * [1](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [2](https://code-maven.com/input-output-in-plain-javascript)
