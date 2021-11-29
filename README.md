@@ -24,7 +24,7 @@ Here are a couple traits that people with a growth mindset tend to have.
 
 * Growth Mindset
 
-# Table of Contents
+## Code 102 - Intro to Software Development
 1. [Front Page](README.md)
 2. [Coder's Computer](coderscomputer.md)
 3. [Git Intro](gitintro.md)
@@ -33,3 +33,13 @@ Here are a couple traits that people with a growth mindset tend to have.
 6. [css](css.md)
 7. [Javascript](javascriptmd)
 8. [Operators and loops](operatorsandloops.md)
+
+
+
+## Code 301 - Intermediate Software Development
+
+
+
+
+
+## Code 401 - Advanced Software Development
