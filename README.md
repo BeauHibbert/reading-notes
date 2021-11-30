@@ -66,7 +66,7 @@ Here are a couple traits that people with a growth mindset tend to have.
 
 ## Things I want to know more about
 
-
+[Reading 02](reading-02.md)
 
 
 
