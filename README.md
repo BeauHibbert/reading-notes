@@ -69,6 +69,7 @@ Here are a couple traits that people with a growth mindset tend to have.
 [Reading 02](reading-02.md)
 [Reading 03](reading-03.md)
 [Reading 04](reading-04.md)
+[Reading 05](reading-05.md)
 
 
 ## Code 401 - Advanced Software Development
