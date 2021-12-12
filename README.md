@@ -64,8 +64,6 @@ Here are a couple traits that people with a growth mindset tend to have.
 
 ## Code 301 - Intermediate Software Development
 
-## Things I want to know more about
-
 - [Reading 02](reading-02.md)
 - [Reading 03](reading-03.md)
 - [Reading 04](reading-04.md)
@@ -77,3 +75,6 @@ Here are a couple traits that people with a growth mindset tend to have.
 - [Reading 10](reading-10.md)
 
 ## Code 401 - Advanced Software Development
+
+
+## Things I want to know more about
