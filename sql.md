@@ -8,7 +8,7 @@ You can also use OR to define multiple WHERE conditions when you care whether no
 
 You can invert a condition by simply putting the NOT operator in front of it.
 
-Operator  	Description
+```Operator  	Description
  = 		      equal 
 < 		      less than 
 > 		      greater than 
@@ -21,3 +21,4 @@ Operator		      Description
 LIKE 			        a string matches a pattern 
 ILIKE 			      case insensitive version of 
 LIKE SIMILAR TO 	a string matches a regex pattern
+```
