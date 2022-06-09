@@ -80,7 +80,7 @@ Here are a couple traits that people with a growth mindset tend to have.
 
 ## Code 401 - Advanced Software Development
 
-[Introduction to SQL](sql.md)
+[Introduction to SQL](sql.md). 
 [Practice in the Terminal](terminal-practice.md)
 
 ## Things I want to know more about
